@@ -1,7 +1,7 @@
 var app = new Vue({
     el: '.main',
     data: {
-        message: '# Heading 1'
+        message:  '# Heading'
     },
 
     computed: {
